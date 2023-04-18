@@ -1,0 +1,16 @@
+dependencies:
+  xmldoc: 1.1.0
+lockfileVersion: 5.1
+packages:
+  /sax/1.2.4:
+    dev: false
+    resolution:
+      integrity: sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
+  /xmldoc/1.1.0:
+    dependencies:
+      sax: 1.2.4
+    dev: false
+    resolution:
+      integrity: sha512-5CEmEtW6IeVMEHSIxchhwpwJKnpFFsCOl9J3R2trVPcMsT7loE7jwT/q1Zwzlk3MetuiyCAdpA699gq0E4fgdw==
+specifiers:
+  xmldoc: 1.1.0
